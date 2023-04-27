@@ -1,5 +1,5 @@
 # image-dataset_bing_downloader
-Ini dapat digunakan untuk mendownload gambar dari bing untuk membuat dataset Machine Learning.
+digunakan untuk mendownload gambar dari bing untuk membuat dataset Machine Learning.
 # Langkah-langkah
 install Python python.org
 
